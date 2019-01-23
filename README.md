@@ -1,0 +1,1 @@
+An empirical study: stablishing as baseline the results achivied by Shane Barrat in [this paper](https://arxiv.org/pdf/1710.09511) and using the same data, we developed an architecture where we hope to boost a image captioning generation network, with a introduction of Markov Chain model.
